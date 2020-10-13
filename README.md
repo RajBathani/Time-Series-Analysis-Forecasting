@@ -9,6 +9,7 @@ Datasets have been chosen based upon their statistical properties. This thesis d
 forecasting process and necessary statistical tests to be performed prior fitting a forecasting
 model. This thesis talks about Literature Analysis on Data Mining Techniques to forecast
 Stock prices.
+
 Thus, this research aims at making comparison between all models by fitting them on both
 datasets. At the end, it also aims at forecasting future values and compare the performance of
 the models in selected business context.
